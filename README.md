@@ -26,3 +26,8 @@ find_and_disable(name, path=None, enable=True):
 
 Enable/Disable task:
     disable(task_path), enable(task_path) which expects a path to the task.
+
+# How to use
+By default use a program like idle (3.7 recommended)
+Call $py TScheme.py$
+Thereafter access the scheduler with $scheduler$
