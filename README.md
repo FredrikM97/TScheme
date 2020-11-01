@@ -7,6 +7,8 @@ TScheme stands for Task Scheduler Modifier. Modify task within task scheduler. E
 This program allow the user to edit all scheduled tasks accessed in windows
 By using this program to disable unnecessary tasks it is possible to speed up the computer.
 
+*  Note: In order to see all scheduled tasks (NT instance\system) the code need to be run as Administrator
+
 print(category)
     category: info, suggested, disabled, ignored
     
